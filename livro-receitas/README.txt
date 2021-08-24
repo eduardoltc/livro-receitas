@@ -1,6 +1,6 @@
 
 Livro de Receitas
 
-Ol·! Bem vindo ao meu livro de receitas!
+Ol√°! Bem vindo ao meu livro de receitas!
 
-Strogonoff de frango
+1- Strogonoff de frango
